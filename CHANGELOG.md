@@ -6,5 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.0] - 2021-06-11
+
 ### Added
 - First release
+
+[1.0.0]: https://github.com/sgodoy17/magento-2-spanish-chile-language-pack/releases/tag/1.0.0
