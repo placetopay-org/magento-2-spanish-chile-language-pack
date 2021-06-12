@@ -1,0 +1,24 @@
+{
+  "name": "placetopay/magento2-spanish-chile-language-pack",
+  "type": "magento2-language",
+  "description": "Spanish (Chile) language package for Magento 2",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "PlacetoPay",
+      "email": "desarrollo@placetopay.com"
+    },
+    {
+      "name": "Simón Godoy",
+      "email": "sgodoy2017@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
